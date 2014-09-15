@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = lun. 15 sept. 2014 23:47:25 CEST
+
+BeginCmp
+TimeStamp = /5404D387;
+Reference = CF1;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404CBF8;
+Reference = CIN1;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404D521;
+Reference = COUT1;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404D61C;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404C8D9;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404D44D;
+Reference = R2;
+ValeurCmp = RVAR;
+IdModule  = 3PIN_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404D4B5;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404D6B8;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404C824;
+Reference = R5;
+ValeurCmp = LP3965ET-ADJ/NOPB;
+IdModule  = TO220-5;
+EndCmp
+
+EndListe

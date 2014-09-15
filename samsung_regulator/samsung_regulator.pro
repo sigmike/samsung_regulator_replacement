@@ -1,14 +1,11 @@
-update=lun. 01 sept. 2014 21:11:28 CEST
+update=lun. 15 sept. 2014 22:35:15 CEST
 version=1
-last_client=kicad
-[cvpcb]
+last_client=pcbnew
+[general]
 version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [eeschema]
 version=1
-LibDir=
+LibDir=/home/mike/devel/samsung_regulator/samsung_regulator
 NetFmtName=
 RptD_X=0
 RptD_Y=100
@@ -45,25 +42,31 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+LibName31=/home/mike/devel/samsung_regulator/LP3965
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=
 UseCmpFile=1
-PadDrill=0.600000000000
-PadDrillOvalY=0.600000000000
-PadSizeH=1.500000000000
-PadSizeV=1.500000000000
-PcbTextSizeV=1.500000000000
-PcbTextSizeH=1.500000000000
-PcbTextThickness=0.300000000000
-ModuleTextSizeV=1.000000000000
-ModuleTextSizeH=1.000000000000
-ModuleTextSizeThickness=0.150000000000
-SolderMaskClearance=0.000000000000
-SolderMaskMinWidth=0.000000000000
-DrawSegmentWidth=0.200000000000
-BoardOutlineThickness=0.100000000000
-ModuleOutlineThickness=0.150000000000
+PadDrill="    0,600000"
+PadDrillOvalY="    0,600000"
+PadSizeH="    1,000000"
+PadSizeV="    1,000000"
+PcbTextSizeV="    1,000000"
+PcbTextSizeH="    1,000000"
+PcbTextThickness="    0,300000"
+ModuleTextSizeV="    1,000000"
+ModuleTextSizeH="    1,000000"
+ModuleTextSizeThickness="    0,150000"
+SolderMaskClearance="    0,000000"
+SolderMaskMinWidth="    0,000000"
+DrawSegmentWidth="    0,200000"
+BoardOutlineThickness="    0,150000"
+ModuleOutlineThickness="    0,150000"
 [pcbnew/libraries]
 LibDir=
 LibName1=sockets
@@ -82,5 +85,4 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
-[general]
-version=1
+LibName17=/home/mike/devel/samsung_regulator/TO220-5
