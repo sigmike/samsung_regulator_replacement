@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = lun. 15 sept. 2014 23:47:25 CEST
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = lun. 06 oct. 2014 22:37:11 CEST
 
 BeginCmp
 TimeStamp = /5404D387;
@@ -39,7 +39,7 @@ BeginCmp
 TimeStamp = /5404D44D;
 Reference = R2;
 ValeurCmp = RVAR;
-IdModule  = 3PIN_6mm;
+IdModule  = CVAR3X2;
 EndCmp
 
 BeginCmp

@@ -1,8 +1,6 @@
-update=lun. 15 sept. 2014 22:35:15 CEST
+update=lun. 06 oct. 2014 22:37:59 CEST
 version=1
-last_client=pcbnew
-[general]
-version=1
+last_client=kicad
 [eeschema]
 version=1
 LibDir=/home/mike/devel/samsung_regulator/samsung_regulator
@@ -86,3 +84,5 @@ LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
 LibName17=/home/mike/devel/samsung_regulator/TO220-5
+[general]
+version=1
