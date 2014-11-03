@@ -2,11 +2,11 @@
 
   (general
     (links 15)
-    (no_connects 3)
+    (no_connects 0)
     (area 175.468845 42.98982 202.336401 124.3584)
     (thickness 1.6)
     (drawings 0)
-    (tracks 34)
+    (tracks 38)
     (zones 0)
     (modules 9)
     (nets 8)
@@ -433,6 +433,7 @@
     )
   )
 
+  (segment (start 186.69 118.11) (end 186.69 111.76) (width 0.254) (layer B.Cu) (net 1))
   (segment (start 186.69 106.68) (end 186.69 102.87) (width 0.254) (layer B.Cu) (net 1))
   (segment (start 186.69 102.87) (end 184.15 100.33) (width 0.254) (layer B.Cu) (net 1) (tstamp 54330803))
   (segment (start 186.69 104.14) (end 186.69 102.87) (width 0.254) (layer B.Cu) (net 1))
@@ -449,6 +450,8 @@
   (segment (start 190.5 76.2) (end 190.5 68.58) (width 0.254) (layer B.Cu) (net 3) (tstamp 54330799))
   (segment (start 189.23 77.47) (end 190.5 76.2) (width 0.254) (layer B.Cu) (net 3) (tstamp 54330795))
   (segment (start 199.39 95.25) (end 199.39 88.9) (width 0.254) (layer B.Cu) (net 4))
+  (segment (start 194.31 106.68) (end 195.58 106.68) (width 0.254) (layer B.Cu) (net 5))
+  (segment (start 195.58 106.68) (end 199.39 102.87) (width 0.254) (layer B.Cu) (net 5) (tstamp 5457E331))
   (segment (start 196.85 81.28) (end 196.85 68.58) (width 0.254) (layer B.Cu) (net 6))
   (segment (start 185.42 66.04) (end 182.88 68.58) (width 0.254) (layer B.Cu) (net 6) (tstamp 543C1835))
   (segment (start 194.31 66.04) (end 185.42 66.04) (width 0.254) (layer B.Cu) (net 6) (tstamp 543C182A))
@@ -463,6 +466,7 @@
   (segment (start 177.8 80.01) (end 182.88 74.93) (width 0.254) (layer B.Cu) (net 6) (tstamp 54330283))
   (segment (start 177.8 123.19) (end 177.8 80.01) (width 0.254) (layer B.Cu) (net 6) (tstamp 54330280))
   (segment (start 191.77 123.19) (end 177.8 123.19) (width 0.254) (layer B.Cu) (net 6) (tstamp 54330273))
+  (segment (start 181.61 100.33) (end 181.61 90.17) (width 0.254) (layer B.Cu) (net 7))
   (segment (start 181.61 118.11) (end 181.61 100.33) (width 0.254) (layer B.Cu) (net 7))
   (segment (start 181.61 100.33) (end 181.61 80.01) (width 0.254) (layer B.Cu) (net 7) (tstamp 54330743))
   (segment (start 181.61 80.01) (end 185.42 76.2) (width 0.254) (layer B.Cu) (net 7) (tstamp 54330746))
