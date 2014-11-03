@@ -1,6 +1,6 @@
-update=lun. 06 oct. 2014 22:37:59 CEST
+update=lun. 03 nov. 2014 22:21:19 CET
 version=1
-last_client=kicad
+last_client=cvpcb
 [eeschema]
 version=1
 LibDir=/home/mike/devel/samsung_regulator/samsung_regulator
@@ -41,19 +41,16 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=/home/mike/devel/samsung_regulator/LP3965
-[cvpcb]
+[general]
 version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 version=1
-LastNetListRead=
+LastNetListRead=samsung_regulator.net
 UseCmpFile=1
-PadDrill="    0,600000"
-PadDrillOvalY="    0,600000"
-PadSizeH="    1,000000"
-PadSizeV="    1,000000"
+PadDrill="    1,320800"
+PadDrillOvalY="    1,320800"
+PadSizeH="    2,540000"
+PadSizeV="    2,540000"
 PcbTextSizeV="    1,000000"
 PcbTextSizeH="    1,000000"
 PcbTextThickness="    0,300000"
@@ -66,7 +63,6 @@ DrawSegmentWidth="    0,200000"
 BoardOutlineThickness="    0,150000"
 ModuleOutlineThickness="    0,150000"
 [pcbnew/libraries]
-LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -84,5 +80,10 @@ LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
 LibName17=/home/mike/devel/samsung_regulator/TO220-5
-[general]
+LibName18=/home/mike/devel/samsung_regulator/RVAR
+LibDir=
+[cvpcb]
 version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
