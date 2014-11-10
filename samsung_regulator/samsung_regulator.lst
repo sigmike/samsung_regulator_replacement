@@ -1,0 +1,26 @@
+eeschema (2013-may-18)-stable  >> Creation date: lun. 10 nov. 2014 20:36:40 CET
+#Cmp ( order = Reference )
+| CF1        C           
+| CIN1       C           
+| COUT1      C           
+| K1         CONN_3      
+| R1         R           
+| R2         RVAR        
+| R3         R           
+| R4         R           
+| R5         LP3965ET-ADJ/NOPB
+#End Cmp
+
+#Cmp ( order = Value )
+| C            CF1       
+| C            CIN1      
+| C            COUT1     
+| CONN_3       K1        
+| R            R1        
+| RVAR         R2        
+| R            R3        
+| R            R4        
+| LP3965ET-ADJ/NOPB R5        
+#End Cmp
+
+#End List

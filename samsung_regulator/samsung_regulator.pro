@@ -1,6 +1,6 @@
-update=lun. 03 nov. 2014 22:21:19 CET
+update=lun. 10 nov. 2014 20:41:06 CET
 version=1
-last_client=cvpcb
+last_client=pcbnew
 [eeschema]
 version=1
 LibDir=/home/mike/devel/samsung_regulator/samsung_regulator
@@ -43,6 +43,11 @@ LibName30=valves
 LibName31=/home/mike/devel/samsung_regulator/LP3965
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=samsung_regulator.net
@@ -63,6 +68,7 @@ DrawSegmentWidth="    0,200000"
 BoardOutlineThickness="    0,150000"
 ModuleOutlineThickness="    0,150000"
 [pcbnew/libraries]
+LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -81,9 +87,3 @@ LibName15=pga_sockets
 LibName16=valves
 LibName17=/home/mike/devel/samsung_regulator/TO220-5
 LibName18=/home/mike/devel/samsung_regulator/RVAR
-LibDir=
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
