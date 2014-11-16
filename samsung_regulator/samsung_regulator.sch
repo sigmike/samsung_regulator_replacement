@@ -37,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "10 nov 2014"
+Date "16 nov 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -283,4 +283,12 @@ Wire Wire Line
 	5350 3450 6400 3450
 Wire Wire Line
 	6400 3450 6400 2750
+Text Label 4950 1700 0    60   ~ 0
+VOUT
+Text Label 4350 2100 0    60   ~ 0
+VIN
+Text Label 3900 3150 0    60   ~ 0
+SD
+Text Label 5600 3450 0    60   ~ 0
+ADJ
 $EndSCHEMATC
