@@ -1,4 +1,4 @@
-update=lun. 10 nov. 2014 20:41:06 CET
+update=dim. 16 nov. 2014 18:44:02 CET
 version=1
 last_client=pcbnew
 [eeschema]
@@ -87,3 +87,5 @@ LibName15=pga_sockets
 LibName16=valves
 LibName17=/home/mike/devel/samsung_regulator/TO220-5
 LibName18=/home/mike/devel/samsung_regulator/RVAR
+LibName19=acolab
+LibName20=sigmike
